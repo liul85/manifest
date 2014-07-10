@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-	<remote name="github_liul85" fetch="https://github.com/liul85" />
+	<remote name="github_liul85" fetch="https://github.com" />
 	<default revision="refs/heads/master" remote="github_liul85" />
-	<project name="AgileJava"/>
-	<project name="hallelujahIM"/>
+	<project name="liul85/AgileJava"/>
+	<project name="liul85/hallelujahIM"/>
 </manifest>
